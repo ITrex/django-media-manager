@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='django-media-manager',
-    version='3.3.2',
+    version='3.3.3',
     description='Media-Management with the Django Admin-Interface.',
     author='Patrick Kranzlmueller',
     author_email='patrick@vonautomatisch.at',
